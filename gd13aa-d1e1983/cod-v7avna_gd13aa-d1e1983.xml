@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO I.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO I.</title>
+          <date when="2020-04-26">April 26, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-v7avna">Paris, Bibliothèque nationale de France, nouvelles acquisitions latines 1761.</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-04-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="130-r"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gd13aa-d1e1983">
+        <head xml:id="gd13aa-d1e1983-Hd1e105">QUESTIO I.</head>
+        <div xml:id="gd13aa-d1e1983-Dd1e108" type="gd-dicta">
+          <head xml:id="gd13aa-d1e1983-Hd1e110">Dictum ante c. 1</head>
+          <p xml:id="gd13aa-d1e1983-d1e108">
+            <lb ed="#P"/>Quod autem 
+            <lb ed="#P"/>crimine irretiti alios accusare non 
+            <lb ed="#P"/>possunt anacletus papa testatur dicens
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e117">
+          <head xml:id="gd13aa-d1e1983-Hd1e119">C. I</head>
+          <head xml:id="gd13aa-d1e1983-Hd1e122" type="question-title">
+            <lb ed="#P"/>a criminosis sacerdos accusari non permittitur
+          </head>
+          <p xml:id="gd13aa-d1e1983-d1e127">
+            <pb ed="#P" n="130-v"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P"/>Si sacerdos sine crimine eligi praecipitur 
+            <lb ed="#P"/>nullatenus a criminosis accusari aut ca<lb ed="#P"/>lumpniari 
+            permittitur nec ab aliis quam 
+            <lb ed="#P"/>ab his qui sine crimine sunt et iusta electione 
+            <lb ed="#P"/>sacerdotes ordinari possunt et tales per omnia
+            <lb ed="#P"/>inueniuntur quales eligi sacerdotes iubentur 
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e148">
+          <head xml:id="gd13aa-d1e1983-Hd1e150">C. IV</head>
+          <head xml:id="gd13aa-d1e1983-Hd1e153" type="question-title">
+            Ante satisfactionem excommunicati
+            ad accusationem non admittantur.
+          </head>
+          <p xml:id="gd13aa-d1e1983-d1e156"> 
+            <lb ed="#P"/>Item <ref xml:id="gd13aa-d1e1983-Rd1e160">fabianus papa</ref>
+            <lb ed="#P"/><quote xml:id="gd13aa-d1e1983-Qd1e164">omnis illi sunt ab accusatione 
+            <lb ed="#P"/>repellendi quos apostolus commemorat 
+            <lb ed="#P"/>dicens <quote xml:id="gd13aa-d1e1983-Qd1e170" source="http://scta.info/resource/Icor5_11">Cum his nec cibum sumere</quote> et ante 
+            <lb ed="#P"/>satisfactionem ecclesiae non sunt suscipi<lb ed="#P"/>endi.</quote> 
+          </p>  
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e180" type="gd-dicta">
+          <head xml:id="gd13aa-d1e1983-Hd1e182">Dictum post c. 6</head>
+          <p xml:id="gd13aa-d1e1983-d1e185">
+            Non solum <unclear>au</unclear> criminosi sed etiam
+            <lb ed="#P"/>quilibet alii ab accusatione episcoporum repel<lb ed="#P"/>luntur
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e197">
+          <head xml:id="gd13aa-d1e1983-Hd1e199">C. VII</head>
+          <head xml:id="gd13aa-d1e1983-Hd1e202" type="question-title"> Deo non placet qui suos seruos
+            accusat.</head>
+          <p xml:id="gd13aa-d1e1983-d1e205"> 
+            Unde <ref xml:id="gd13aa-d1e1983-Rd1e207">anacletus</ref> ait: 
+            <lb ed="#P"/><quote xml:id="gd13aa-d1e1983-Qd1e211">Si omnia in hoc saeculo uindicata essent 
+            <lb ed="#P"/>locum diuina iudicia non haberetur. 
+            <lb ed="#P"/>Superuacuis laborat inpendiis qui solem 
+            <lb ed="#P"/>certat facibus adiuuare Ideo si aliquis 
+            <lb ed="#P"/>putat se deo in hoc placere, quod seruos 
+            <lb ed="#P"/>suos accusat, et ut meliores fiant 
+            <lb ed="#P"/>dicit se hoc agere in uanum laborat, et plus 
+            <lb ed="#P"/>inuidiae stimulis agitatur quam caritatis, 
+            <lb ed="#P"/>Quoniam gratiae plenitudo adiectione non indiget 
+            <lb ed="#P"/>nec ulla requirit commendationis augmenta.</quote> 
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e235" type="gd-dicta">
+          <head xml:id="gd13aa-d1e1983-Hd1e237">Dictum post c. 11</head>
+          <p xml:id="gd13aa-d1e1983-d1e240">
+            <lb ed="#P"/>Verum hac auctoritate prohibentur spirituales 
+            <lb ed="#P"/>a carnalibus accusari non carnales a spiritu<lb ed="#P"/>alibus 
+            Quod ex uerbis eiusdem datur intelligi 
+            <lb ed="#P"/>quibus in eodem capitulo subiunxit dicens 
+            <lb ed="#P"/><quote xml:id="gd13aa-d1e1983-Qd1e251">Capite languescente facilius reliqua corporis 
+            <lb ed="#P"/>membra inficiuntur sicut scriptum est. <quote xml:id="gd13aa-d1e1983-Qd1e255" source="http://scta.info/resource/is1_5 http://scta.info/resource/is1_6">Omne 
+            <cb ed="#P" n="b"/>
+            <lb ed="#P"/>capud languidum et omne cor merens 
+            <lb ed="#P"/>a planta pedis usque ad uerticem non est in eo 
+            <lb ed="#P"/>sanitas</quote>. Quapropter manifestum est diabolum 
+            <lb ed="#P"/>qui <quote xml:id="gd13aa-d1e1983-Qd1e268" source="http://scta.info/resource/Ipetr5/8">sicut leo rugiens circuit querens quem 
+            <lb ed="#P"/>deuoret</quote>cordibus plebium suadere ut doc<lb ed="#P"/>toribus 
+            atque pastoribus suis detractiones 
+            <lb ed="#P"/>irrogent uel accusent ut plebes lan<lb ed="#P"/>guescentes 
+            non tenentibus pastoribus frena 
+            <lb ed="#P"/>eorum lasciuiant atque inimaruant ut 
+            <lb ed="#P"/>saltim sic periclinari possint. Multum 
+            <lb ed="#P"/>uero distant dampna morum a dampnis 
+            <lb ed="#P"/>rerum temporalium, cum ista extra nos sint, 
+            <lb ed="#P"/>illa uero in nobis.</quote> <!-- para break -->Et infra <quote xml:id="gd13aa-d1e1983-Qd1e295">Peius malum 
+            <lb ed="#P"/>fore non existimo, quam christianos suis inuidere 
+            <lb ed="#P"/>sacerdotibus</quote>.
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e304">
+          <head xml:id="gd13aa-d1e1983-Hd1e306">C. XII</head>
+          <head xml:id="gd13aa-d1e1983-Hd1e309" type="question-title"> 
+            Deo recte famulantes persequi non licet. 
+          </head>
+          <p xml:id="gd13aa-d1e1983-d1e312"> 
+            hinc etiam <ref xml:id="gd13aa-d1e1983-Rd1e314">felix secundus ait</ref>
+            <lb ed="#P"/><quote xml:id="gd13aa-d1e1983-Qd1e318">Quiescite inquit sancta sinodus nicena 
+            <lb ed="#P"/>et nolite persequi eos qui deo recte famulantur 
+            <lb ed="#P"/>et sincera uoluntate superna dei man<lb ed="#P"/>data 
+            custodiunt. et nostris legibus sub<lb ed="#P"/>iugantur. 
+            quia non decet ut carnales 
+            <lb ed="#P"/>spirituales persequantur</quote>
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e333" type="gd-dicta">
+          <head xml:id="gd13aa-d1e1983-Hd1e335">Dictum post c. 16</head>
+          <p xml:id="gd13aa-d1e1983-d1e338">
+            Patet ergo ut praemissum est 
+            <lb ed="#P"/>quod carnales prohibentur ab accusatione 
+            <lb ed="#P"/>spiritualium non spirituales ab accusatione 
+            <lb ed="#P"/>carnalium 
+          </p>
+          <p xml:id="gd13aa-d1e1983-d1e347">Cum itaque criminosi et infames 
+            <lb ed="#P"/>ab accusationibus prohibeantur uiden<lb ed="#P"/>dum 
+            est quos canonum sacra auctoritas 
+            <lb ed="#P"/>infames appellet. 
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e357">
+          <head xml:id="gd13aa-d1e1983-Hd1e359">C. XVII</head>
+          <head xml:id="gd13aa-d1e1983-Hd1e362" type="question-title"> Que personae infames
+            habeantur.</head>
+          <p xml:id="gd13aa-d1e1983-d1e365">
+            De his <ref xml:id="gd13aa-d1e1983-Rd1e367">stephanus 
+            <lb ed="#P"/>romanae ecclesiae episcopus scribit hylario</ref> 
+            <lb ed="#P"/>dicens 
+            <pb ed="#P" n="131-r"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P"/><quote xml:id="gd13aa-d1e1983-Qd1e379">Infames esse eas personas dicimus quod pro aliqua 
+            <lb ed="#P"/>culpa notantur infamia id est omnes qui christianae 
+            <lb ed="#P"/>legis normam abiciunt et statuta ecclesia<lb ed="#P"/>stica 
+            contempnunt. Similiter fures sacri<lb ed="#P"/>legos 
+            et omnibus capitalibus criminibus irretitos 
+            <lb ed="#P"/>Sepulcrorum quoque uiolatores et omnes qui aduersus 
+            <lb ed="#P"/>patres armantur qui in omni mundo infa<lb ed="#P"/>mia 
+            notantur Similiter et incestuosos 
+            <lb ed="#P"/>homicidas periuros raptores maleficos 
+            <lb ed="#P"/>ueneficos adulteros de bellis publicis 
+            <lb ed="#P"/>fugientes, et qui indigna sibi petunt loca 
+            <lb ed="#P"/>tenere aut facultates ecclesiae auferunt 
+            <lb ed="#P"/>iniuste, et qui fratres calumpniantur, aut ac<lb ed="#P"/>cusant 
+            et non probant, et qui contra innocentes 
+            <lb ed="#P"/>principum animum ad iracundiam prouocant 
+            <lb ed="#P"/>et omnes anathematizatos uel pro suis sce<lb ed="#P"/>leribus 
+            ab ecclesia pulsos et omnes quos ecclesiasticae 
+            <lb ed="#P"/>uel seculi leges infames pronuntiant. hii 
+            <lb ed="#P"/>nimirum omnes nec serui ante legitimam 
+            <lb ed="#P"/>libertatem nec penitentes nec bigami 
+            <lb ed="#P"/>nec illi qui curiae deseruiunt uel non sunt 
+            <lb ed="#P"/>integri corpore aut sanam non habent 
+            <lb ed="#P"/>mentem uel intellectum aut inobedi<lb ed="#P"/>entes 
+            sanctorum decretis existunt aut 
+            <lb ed="#P"/>furiosi manifestantur hii omnes inquam 
+            <lb ed="#P"/>ad accusationem seu ad testimonium 
+            <lb ed="#P"/>nullatenus possunt iuste recipi</quote>
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e440" type="gd-dicta">
+          <head xml:id="gd13aa-d1e1983-Hd1e442">Dictum post c. 19</head>
+          <p xml:id="gd13aa-d1e1983-d1e445">
+            Sed licet 
+            <lb ed="#P"/>infames ab accusatione prohibendi sit
+            <lb ed="#P"/>haereticos namque accusare in familibus non 
+            <lb ed="#P"/>prohibetur ut supra patuit in ea causa 
+            <cb ed="#P" n="b"/>
+            <lb ed="#P"/>ubi de accusatione minorum aduersus 
+            <lb ed="#P"/>maiores disputatum est
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e463">
+          <head xml:id="gd13aa-d1e1983-Hd1e465">C. XX.</head>
+          <p xml:id="gd13aa-d1e1983-d1e468"> 
+            Item <quote xml:id="gd13aa-d1e1983-Qd1e470">cum maiores 
+            <lb ed="#P"/>scientia et moribus a minoribus accusari 
+            <lb ed="#P"/>prohibeantur non equales ab equalibus uel minores 
+            <lb ed="#P"/>a maioribus, ab huius accusatione non sunt 
+            <lb ed="#P"/>hii prohibendi cum hereticus catholico minor 
+            <lb ed="#P"/>sit</quote>
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e485">
+          <head xml:id="gd13aa-d1e1983-Hd1e487">C. XXI</head>
+          <head xml:id="gd13aa-d1e1983-Hd1e490" type="question-title"> Dubium est, an sciens auarus, an
+            nesciens hereticus grauius peccet.</head>
+          <p xml:id="gd13aa-d1e1983-d1e493"> 
+            Sed hoc an generaliter accipiendum sit 
+            <lb ed="#P"/><ref xml:id="gd13aa-d1e1983-Rd1e496">augustinus non diffinit</ref> dicens
+            <lb ed="#P"/>
+            <lb ed="#P"/><quote xml:id="gd13aa-d1e1983-Qd1e502">Quero ergo quis peccet grauius qui nesciens 
+            <lb ed="#P"/>heresim incurrit an qui sciens ab auaritia 
+            <lb ed="#P"/>id est ab idolatria non recesserit. Secundum illam 
+            <lb ed="#P"/>regulam qua peccata scientium peccatis igno<lb ed="#P"/>rantiae 
+            praeponuntur auarum conscientias uincit 
+            <lb ed="#P"/>in scelere. Sed si forte hoc faciat in heresi 
+            <lb ed="#P"/>ipsius sceleris magnitudo quod facit in a<lb ed="#P"/>uaritia 
+            scientis admissio, hereticus nesciens 
+            <lb ed="#P"/>auaro scienti coequatur.</quote>
+          </p>
+          <p xml:id="gd13aa-d1e1983-d1e523">
+            <ref xml:id="gd13aa-d1e1983-Rd1e525">Item</ref> Utrum 
+            <lb ed="#P"/>catholicum pessimis moribus alicui heretico 
+            <lb ed="#P"/>in cuius uita praeter id quod hereticus est non inueniunt 
+            <lb ed="#P"/>homines quod reprehendant/ praeponere debeamus 
+            <lb ed="#P"/>non audeo praecipitare sententiam 
+          </p>
+        </div>
+        <div xml:id="gd13aa-d1e1983-Dd1e538" type="gd-dicta">
+          <head xml:id="gd13aa-d1e1983-Hd1e540">Dictum post c. 21</head>
+          <p xml:id="gd13aa-d1e1983-d1e543">
+            <lb ed="#P"/>Verum 
+            hoc augustini et illud de infamium 
+            <lb ed="#P"/>accusatione, de his intelligendum est quos 
+            <lb ed="#P"/>constat esse hereticos non de his qui se 
+            <lb ed="#P"/>negant in heresim lapsos. hic autem in 
+            <lb ed="#P"/>omnibus religiosus apparens dum se negat 
+            <lb ed="#P"/>haereticae communionis aliquando macula infectum. 
+            <lb ed="#P"/>infames atque alios huiusmodi a sua 
+            <lb ed="#P"/>accusatione ipse repellit.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

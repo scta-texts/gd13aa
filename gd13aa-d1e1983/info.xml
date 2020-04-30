@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+  <body>
+    <div xml:id="gd13aa-d1e1983">
+      <head xml:id="gd13aa-d1e1983-Hd1e105">QUESTIO I.</head>
+      <div xml:id="gd13aa-d1e1983-Dd1e108">
+        <head xml:id="gd13aa-d1e1983-Hd1e110">Dictum ante c. 1</head>
+        <p xml:id="gd13aa-d1e1983-d1e108">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e106"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e117">
+        <head xml:id="gd13aa-d1e1983-Hd1e119">C. I</head>
+        <head xml:id="gd13aa-d1e1983-Hd1e122" type="question-title">
+          <lb ed="#P"/>a criminosis sacerdos accusari non permittitur
+        </head>
+        <p xml:id="gd13aa-d1e1983-d1e127">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e117"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e148">
+        <head xml:id="gd13aa-d1e1983-Hd1e150">C. IV</head>
+        <head xml:id="gd13aa-d1e1983-Hd1e153" type="question-title">
+          Ante satisfactionem excommunicati
+          ad accusationem non admittantur.
+        </head>
+        <p xml:id="gd13aa-d1e1983-d1e156"> 
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e160"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e180">
+        <head xml:id="gd13aa-d1e1983-Hd1e182">Dictum post c. 6</head>
+        <p xml:id="gd13aa-d1e1983-d1e185">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e196"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e197">
+        <head xml:id="gd13aa-d1e1983-Hd1e199">C. VII</head>
+        <head xml:id="gd13aa-d1e1983-Hd1e202" type="question-title"> Deo non placet qui suos seruos
+          accusat.</head>
+        <p xml:id="gd13aa-d1e1983-d1e205">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e212"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e235">
+        <head xml:id="gd13aa-d1e1983-Hd1e237">Dictum post c. 11</head>
+        <p>
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e280"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e304">
+        <head xml:id="gd13aa-d1e1983-Hd1e306">C. XII</head>
+        <head xml:id="gd13aa-d1e1983-Hd1e309" type="question-title"> 
+          Deo recte famulantes persequi non licet. 
+        </head>
+        <p xml:id="gd13aa-d1e1983-d1e312"> 
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e299"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e333">
+        <head xml:id="gd13aa-d1e1983-Hd1e335">Dictum post c. 16</head>
+        <p xml:id="gd13aa-d1e1983-d1e338">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e363"/>
+          </assertions>
+        </p>
+        <p xml:id="gd13aa-d1e1983-d1e347">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e367"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e357">
+        <head xml:id="gd13aa-d1e1983-Hd1e359">C. XVII</head>
+        <head xml:id="gd13aa-d1e1983-Hd1e362" type="question-title"> Que personae infames
+          habeantur.</head>
+        <p xml:id="gd13aa-d1e1983-d1e365">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e382"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e440">
+        <head xml:id="gd13aa-d1e1983-Hd1e442">Dictum post c. 19</head>
+        <p xml:id="gd13aa-d1e1983-d1e445">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e415"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e463">
+        <head xml:id="gd13aa-d1e1983-Hd1e465">C. XX.</head>
+        <p xml:id="gd13aa-d1e1983-d1e468">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e425"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e485">
+        <head xml:id="gd13aa-d1e1983-Hd1e487">C. XXI</head>
+        <head xml:id="gd13aa-d1e1983-Hd1e490" type="question-title"> Dubium est, an sciens auarus, an
+          nesciens hereticus grauius peccet.</head>
+        <p xml:id="gd13aa-d1e1983-d1e493">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e443"/>
+          </assertions>
+        </p>
+        <p xml:id="gd13aa-d1e1983-d1e523">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e606"/>
+          </assertions>
+        </p>
+      </div>
+      <div xml:id="gd13aa-d1e1983-Dd1e538">
+        <head xml:id="gd13aa-d1e1983-Hd1e540">Dictum post c. 21</head>
+        <p xml:id="gd13aa-d1e1983-d1e543">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c6q1-d1e446"/>
+          </assertions>
+        </p>
+      </div>
+    </div>
+  </body>
+</info>
