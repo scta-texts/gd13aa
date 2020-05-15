@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decretum Gratiani</title>
+        <author>Gratian, active 12th century</author>
+        <editor>Paul Evans</editor>
+        <respStmt>
+          <resp>transcribed by</resp>
+          <name>Emily Bolender</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2020-05-11">May 11, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>Scholastic Commentaries and Texts Archive</authority>
+        <availability status="free">
+          <p>This work is licensed under a <ref target="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</ref>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-v7avna">Paris, Bibliothèque nationale de France, nouvelles acquisitions latines 1761.
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno type="BnF">nouvelles acquisitions latines 1761</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <locus>fos. 1r-158v</locus>
+                  <p>A text of the first recension of the Decretum,
+                    ending incompletely in C. 12, q. 2, c. 39: "episcopus
+                    absque ulla" (line 10 in Friedberg's edition).</p>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>158 fos.</p>
+                </objectDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/diplomatic.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-05-11" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text type="diplomatic" xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="126-v" type="folio"/>
+        <cb ed="#P" n="b"/>
+        <lb ed="#P" n="19"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gd13aa-d1e1773" type="g2-p2c4prae-et"> <!-- start C.4 d.init. -->
+        <head xml:id="gd13aa-d1e1773-Hd1e145">(C.4 d.init)</head>
+        <p xml:id="gd13aa-d1e1773-d1e148">
+          <lb ed="#P"/>[Quidam] in excomunicatione constitutus
+          <lb ed="#P"/>episcopum accusare disponit, ado
+          <lb ed="#P"/>lescentem infra xiiiium etatis sue annum
+          <lb ed="#P"/>ad assertionem sue cause adducit.
+          <lb ed="#P"/>Prohibitus ab accusatione adolescentem
+          <lb ed="#P"/>accusatorem, et se testem facit. Adole
+          <lb ed="#P"/>scens personam accusatoris et testis gerere
+          <lb ed="#P"/>cupit, di statuta ad iudicium electorum
+          <lb ed="#P"/>iudicium episcopus minime
+          <lb ed="#P"/>concurrit a
+          <expan>
+            <abbr>cōiōe</abbr>
+            <ex>communione</ex>
+          </expan>
+          <lb ed="#P"/>suspendere, tandem renouato iudicio,
+          <lb ed="#P"/>accusator culpabilis in accusatione
+          <lb ed="#P"/>inuenitur, demum ad assertionem
+          <lb ed="#P"/>proprie cause procedit. Hic primum
+          <pb ed="#P" n="127-r" type="folio"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P"/>queritur an in excommunicatione constitutus alium
+          <lb ed="#P"/>accusare ualeat. Secundo autem infra
+          <expan>
+            <abbr>i</abbr>
+            <ex>infra</ex>
+          </expan>
+          <lb ed="#P"/>xiiiium. annum in criminari causa testari,
+          <lb ed="#P"/>quis possit. Tercio, utrum accusatione
+          <lb ed="#P"/>prohibitus personam testificantis possit assu
+          <lb ed="#P"/>mere. Quarto,
+          <choice>
+            <sic>aut</sic>
+            <corr>an&gt;</corr>
+          </choice>
+          die constituta
+          <lb ed="#P"/>non occurrens a communione sit remouendus.
+          <lb ed="#P"/>Sexto, si in episcoporum indicio accusatoris
+          <lb ed="#P"/>persona culpabilis inuenta fuerit, an ad as
+          <lb ed="#P"/>sertionem proprie cause, de cetero sit admittenda.
+        </p>
+      </div> <!-- end C.4 d.init. -->
+    </body>
+  </text>
+</TEI>

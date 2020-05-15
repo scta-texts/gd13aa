@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <body>
+      <div xml:id="gd13aa-d1e1786" type="gd-p2c4q1-et"> <!-- start C.4 q.1 -->
+        <head xml:id="gd13aa-d1e1786-Hd1e145">(C.4 q.1)</head>
+        <div xml:id="gd13aa-d1e1786-Dd1e148" type="gd-p2c4q1ac1-et"> <!-- start C.4 q.1 d.a.c.1 -->
+          <head xml:id="gd13aa-d1e1786-Hd1e152">(C.4 q.1 d.a.c.1)</head>
+          <p xml:id="gd13aa-d1e1786-d1e155">
+            <assertions>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c4q1-d1e106"/>
+            </assertions>
+          </p>
+        </div> <!-- end C.4 q.1 d.a.c.1 -->
+        <div xml:id="gd13aa-d1e1786-Dd1e178" type="gd-p2c4q1c1-et"> <!-- start C.4 q.1 c.1 -->
+          <head xml:id="gd13aa-d1e1786-Hd1e182">(C.4 q.1 c.1)</head>
+          <div xml:id="gd13aa-d1e1786-Dd1e185"> <!-- start rubric -->
+            <p xml:id="gd13aa-d1e1786-d1e189">
+             
+            </p>
+          </div> <!-- end rubric -->
+          <div xml:id="gd13aa-d1e1786-Dd1e197"> <!-- start canon -->
+            <p xml:id="gd13aa-d1e1786-d1e201">
+              <assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c4q1-d1e117"/>
+              </assertions>
+            </p>
+          </div> <!-- end canon -->
+        </div> <!-- end C.4 q.1 c.1 -->
+      </div> <!-- end C.4 q.1 -->
+    </body>
+</info>

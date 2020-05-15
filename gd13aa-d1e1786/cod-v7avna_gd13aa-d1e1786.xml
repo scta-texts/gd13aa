@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decretum Gratiani</title>
+        <author>Gratian, active 12th century</author>
+        <editor>Paul Evans</editor>
+        <respStmt>
+          <resp>transcribed by</resp>
+          <name>Emily Bolender</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2020-05-12">May 12, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>Scholastic Commentaries and Texts Archive</authority>
+        <availability status="free">
+          <p>This work is licensed under a <ref target="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</ref>.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-v7avna">Paris, Bibliothèque nationale de France, nouvelles acquisitions latines 1761.
+            <msDesc>
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibliothèque nationale de France</repository>
+                <idno type="BnF">nouvelles acquisitions latines 1761</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <locus>fos. 1r-158v</locus>
+                  <p>A text of the first recension of the Decretum,
+                    ending incompletely in C. 12, q. 2, c. 39: "episcopus
+                    absque ulla" (line 10 in Friedberg's edition).</p>
+                </msItem>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>158 fos.</p>
+                </objectDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/diplomatic.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-05-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text type="diplomatic" xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="127-r" type="folio"/>
+        <cb ed="#P" n="a"/>
+        <lb ed="#P" n="11"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gd13aa-d1e1786" type="gd-p2c4q1-et"> <!-- start C.4 q.1 -->
+        <head xml:id="gd13aa-d1e1786-Hd1e145">(C.4 q.1)</head>
+        <div xml:id="gd13aa-d1e1786-Dd1e148" type="gd-p2c4q1ac1-et"> <!-- start C.4 q.1 d.a.c.1 -->
+          <head xml:id="gd13aa-d1e1786-Hd1e152">(C.4 q.1 d.a.c.1)</head>
+          <p xml:id="gd13aa-d1e1786-d1e155">
+            <lb ed="#P"/>De prima questione sic statutum legitur,
+            <lb ed="#P"/>in concilio cartaginensi
+            <choice>
+              <abbr>viio</abbr>
+              <expan>septimo</expan>
+            </choice>
+            <lb ed="#P"/>cui interfuit
+            <lb ed="#P"/>faustinus romane ecclesie legatus.
+          </p>
+        </div> <!-- end C.4 q.1 d.a.c.1 -->
+        <div xml:id="gd13aa-d1e1786-Dd1e178" type="gd-p2c4q1c1-et"> <!-- start C.4 q.1 c.1 -->
+          <head xml:id="gd13aa-d1e1786-Hd1e182">(C.4 q.1 c.1)</head>
+          <div xml:id="gd13aa-d1e1786-Dd1e185"> <!-- start rubric -->
+            <p xml:id="gd13aa-d1e1786-d1e189">
+              Ad accu
+              <lb ed="#P"/>sandum non admittatur qui in excommunicationem perseuerat.
+            </p>
+          </div> <!-- end rubric -->
+          <div xml:id="gd13aa-d1e1786-Dd1e197"> <!-- start canon -->
+            <p xml:id="gd13aa-d1e1786-d1e201">
+              <lb ed="#P"/>Diffinimus eum rite ad accusationem non
+              <lb ed="#P"/>admitti, qui posteaquam excommunicatus fuit,
+              <lb ed="#P"/>in ispa adhuc excommunicatione constitutus
+              <lb ed="#P"/>siue sit clericus, accusare uoluerit. <!-- possile para break here? --> Omnes
+              <lb ed="#P"/>etiam infamie maculis aspersi, id est istriones,
+              <lb ed="#P"/>aut turpitudinibus subiecte persone.
+              <lb ed="#P"/>Heretici etiam, siue pagani, siue iudei,
+              <lb ed="#P"/>ab accusatione prohibentur.
+            </p>
+          </div> <!-- end canon -->
+        </div> <!-- end C.4 q.1 c.1 -->
+      </div> <!-- end C.4 q.1 -->
+    </body>
+  </text>
+</TEI>

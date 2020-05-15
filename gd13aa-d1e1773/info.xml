@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <body>
+      <div xml:id="gd13aa-d1e1773" type="g2-p2c4prae-et"> <!-- start C.4 d.init. -->
+        <head xml:id="gd13aa-d1e1773-Hd1e145">(C.4 d.init)</head>
+        <p xml:id="gd13aa-d1e1773-d1e148">
+          <assertions>
+            <assertion property="isRelatedTo" target="http://scta.info/resource/gd-p2c4prae-d1e106"/>
+          </assertions>
+        </p>
+      </div> <!-- end C.4 d.init. -->
+    </body>
+</info>

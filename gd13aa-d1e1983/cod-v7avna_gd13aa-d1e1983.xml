@@ -59,7 +59,7 @@
     <body>
       <div xml:id="gd13aa-d1e1983">
         <head xml:id="gd13aa-d1e1983-Hd1e105">QUESTIO I.</head>
-        <div xml:id="gd13aa-d1e1983-Dd1e108" type="gd-dicta">
+        <div xml:id="gd13aa-d1e1983-Dd1e108" type="gd-p2c6q1dac1-et">
           <head xml:id="gd13aa-d1e1983-Hd1e110">Dictum ante c. 1</head>
           <p xml:id="gd13aa-d1e1983-d1e108">
             <lb ed="#P"/>Quod autem 
@@ -67,7 +67,7 @@
             <lb ed="#P"/>possunt anacletus papa testatur dicens
           </p>
         </div>
-        <div xml:id="gd13aa-d1e1983-Dd1e117">
+        <div xml:id="gd13aa-d1e1983-Dd1e117" type="gd-p2c6q1c1-et">
           <head xml:id="gd13aa-d1e1983-Hd1e119">C. I</head>
           <head xml:id="gd13aa-d1e1983-Hd1e122" type="question-title">
             <lb ed="#P"/>a criminosis sacerdos accusari non permittitur
@@ -83,7 +83,7 @@
             <lb ed="#P"/>inueniuntur quales eligi sacerdotes iubentur 
           </p>
         </div>
-        <div xml:id="gd13aa-d1e1983-Dd1e148">
+        <div xml:id="gd13aa-d1e1983-Dd1e148" type="gd-p2c6q1c4-et">
           <head xml:id="gd13aa-d1e1983-Hd1e150">C. IV</head>
           <head xml:id="gd13aa-d1e1983-Hd1e153" type="question-title">
             Ante satisfactionem excommunicati
