@@ -68,7 +68,6 @@
       <div xml:id="starts-on">
         <pb ed="#P" n="127-r" type="folio"/>
         <cb ed="#P" n="a"/>
-        <lb ed="#P" n="11"/>
       </div>
     </front>
     <body>
@@ -77,7 +76,7 @@
         <div xml:id="gd13aa-d1e1786-Dd1e148" type="gd-p2c4q1ac1-et"> <!-- start C.4 q.1 d.a.c.1 -->
           <head xml:id="gd13aa-d1e1786-Hd1e152">(C.4 q.1 d.a.c.1)</head>
           <p xml:id="gd13aa-d1e1786-d1e155">
-            <lb ed="#P"/>De prima questione sic statutum legitur,
+            <lb ed="#P" n="11"/>De prima questione sic statutum legitur,
             <lb ed="#P"/>in concilio cartaginensi
             <choice>
               <abbr>viio</abbr>

@@ -68,14 +68,13 @@
       <div xml:id="starts-on">
         <pb ed="#P" n="126-v" type="folio"/>
         <cb ed="#P" n="b"/>
-        <lb ed="#P" n="19"/>
       </div>
     </front>
     <body>
       <div xml:id="gd13aa-d1e1773" type="g2-p2c4prae-et"> <!-- start C.4 d.init. -->
         <head xml:id="gd13aa-d1e1773-Hd1e145">(C.4 d.init)</head>
         <p xml:id="gd13aa-d1e1773-d1e148">
-          <lb ed="#P"/>[Quidam] in excomunicatione constitutus
+          <lb ed="#P" n="19"/>[Quidam] in excomunicatione constitutus
           <lb ed="#P"/>episcopum accusare disponit, ado
           <lb ed="#P"/>lescentem infra xiiiium etatis sue annum
           <lb ed="#P"/>ad assertionem sue cause adducit.
