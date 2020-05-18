@@ -71,43 +71,60 @@
       </div>
     </front>
     <body>
-      <div xml:id="gd13aa-d1e1786" type="gd-p2c4q1-et"> <!-- start C.4 q.1 -->
+      <!-- START question 1 C.4 q.1 -->
+      <div xml:id="gd13aa-d1e1786" type="gd-p2c4q1-et"> 
+        <!-- question 1 header -->
         <head xml:id="gd13aa-d1e1786-Hd1e145">(C.4 q.1)</head>
-        <div xml:id="gd13aa-d1e1786-Dd1e148" type="gd-p2c4q1ac1-et"> <!-- start C.4 q.1 d.a.c.1 -->
+        <!-- START dictum a.c.1 container C.4 q.1 d.a.c.1 -->
+        <div xml:id="gd13aa-d1e1786-Dd1e148" type="gd-p2c4q1ac1-et"> 
+          <!-- Dictum header -->
           <head xml:id="gd13aa-d1e1786-Hd1e152">(C.4 q.1 d.a.c.1)</head>
+          <!-- START dictum text-->
           <p xml:id="gd13aa-d1e1786-d1e155">
             <lb ed="#P" n="11"/>De prima questione sic statutum legitur,
-            <lb ed="#P"/>in concilio cartaginensi
+            <lb ed="#P"/>in
+            <!-- inscription for canon text below -->
+            <ref xml:id="gd13aa-d1e1786-Rd1e159" corresp="#d13aa-d1e1786-Qd1e203">concilio cartaginensi
             <choice>
               <abbr>viio</abbr>
               <expan>septimo</expan>
             </choice>
             cui interfuit
             <lb ed="#P"/>faustinus romane ecclesie legatus.
+            </ref>
           </p>
-        </div> <!-- end C.4 q.1 d.a.c.1 -->
-        <div xml:id="gd13aa-d1e1786-Dd1e178" type="gd-p2c4q1c1-et"> <!-- start C.4 q.1 c.1 -->
-          <head xml:id="gd13aa-d1e1786-Hd1e182">(C.4 q.1 c.1)</head>
-          <div xml:id="gd13aa-d1e1786-Dd1e185"> <!-- start rubric -->
-            <p xml:id="gd13aa-d1e1786-d1e189">
-              Ad accu
-              <lb ed="#P"/>sandum non admittatur qui in excommunicationem perseuerat.
-            </p>
-          </div> <!-- end rubric -->
-          <div xml:id="gd13aa-d1e1786-Dd1e197"> <!-- start canon -->
-            <p xml:id="gd13aa-d1e1786-d1e201">
-              <lb ed="#P"/>Diffinimus eum rite ad accusationem non
-              <lb ed="#P"/>admitti, qui posteaquam excommunicatus fuit,
-              <lb ed="#P"/>in ispa adhuc excommunicatione constitutus
-              <lb ed="#P"/>siue sit clericus, accusare uoluerit. <!-- possile para break here? --> Omnes
-              <lb ed="#P"/>etiam infamie maculis aspersi, id est istriones,
-              <lb ed="#P"/>aut turpitudinibus subiecte persone.
-              <lb ed="#P"/>Heretici etiam, siue pagani, siue iudei,
-              <lb ed="#P"/>ab accusatione prohibentur.
-            </p>
-          </div> <!-- end canon -->
-        </div> <!-- end C.4 q.1 c.1 -->
-      </div> <!-- end C.4 q.1 -->
+        </div> 
+        <!-- END C.4 q.1 d.a.c.1 -->
+        <!-- START canon 1 container C.4 q.1 c.1 -->
+        <div xml:id="gd13aa-d1e1786-Dd1e178" type="gd-p2c4q1c1-et"> 
+          <!-- canon header -->
+          <head xml:id="gd13aa-d1e1786-Hd1e182">(C.4 q.1 c.1)</head> 
+          <!-- START canon rubric -->
+          <head xml:id="gd13aa-d1e1786-Dd1e185" type="question-title"> 
+            Ad accu<lb ed="#P"/>sandum 
+            non admittatur qui in excommunicationem perseuerat.
+          </head> 
+          <!-- END rubric -->
+          <!-- START canon text -->
+          <p xml:id="gd13aa-d1e1786-d1e201">
+            <cit>
+              <quote xml:id="gd13aa-d1e1786-Qd1e203">
+                <lb ed="#P"/>Diffinimus eum rite ad accusationem non
+                <lb ed="#P"/>admitti, qui posteaquam excommunicatus fuit,
+                <lb ed="#P"/>in ipsa adhuc excommunicatione constitutus
+                <lb ed="#P"/>siue sit clericus, accusare uoluerit. <!-- possile para break here? --> Omnes
+                <lb ed="#P"/>etiam infamie maculis aspersi, id est istriones,
+                <lb ed="#P"/>aut turpitudinibus subiecte persone.
+                <lb ed="#P"/>Heretici etiam, siue pagani, siue iudei,
+                <lb ed="#P"/>ab accusatione prohibentur.
+              </quote>
+            </cit>
+          </p> 
+          <!-- END canon text -->
+        </div> 
+        <!-- END canon wrapper C.4 q.1 c.1 -->
+      </div> 
+      <!-- END Question 1 C.4 q.1 -->
     </body>
   </text>
 </TEI>
